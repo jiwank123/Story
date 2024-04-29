@@ -1,1 +1,14 @@
 It was the spring of hope, it was the winter of despair.
+
+cd ~/Desktop
+mkdir Story
+fsutil file createnew chapter1.txt 0
+ls
+"C:\Program Files\JetBrains\PyCharm Community Edition 2023.3.2\bin\pycharm64.exe" chapter1.txt
+git innit - innistaltoai git repositiryoyu
+ls -Force
+ git status
+ git add chapter1.txt
+ git add .
+git commit -m "Complete Chapter 1"
+ git log
