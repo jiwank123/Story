@@ -12,3 +12,4 @@ ls -Force
  git add .
 git commit -m "Complete Chapter 1"
  git log
+git checkout chapter2.txt
